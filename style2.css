@@ -55,16 +55,12 @@ nav ul{
 }
 .hero{
     min-height: 90vh;
-    //background: url("../../projet_php/image/ia1.jpg");
-
     background: url("../../projet_php/image/iaimage.jpg");
-
     background-position: center center;
     background-size: cover;
     color: #ffffff;
     display: flex;
     flex-direction: column;
-    //justify-content: center;
     align-items: center;
 }
 .hero h1{
@@ -75,12 +71,9 @@ nav ul{
     color: #ffffff;
     font-size: 2rem;
     top: 0;
-    //right: 0;
     left: 20%;
     padding-left: 20%;
-    //padding-right: 2%;
     width: 70%;
-    //padding: 0 20px;
     margin-bottom: 20px;
     text-align: justify;
 }
@@ -108,7 +101,6 @@ nav ul{
 }
 .hero a{
     padding: 2rem 6rem;
-   //background: #03034b;
     color: #ffff;
     font-size: 1.8rem;
     cursor: pointer;
@@ -127,10 +119,6 @@ nav ul{
 }
 .hero2{
     background: url("../../projet_php/image/image.jpg");
-   // background-position: center center;
-    // background-size: cover;
-    //background-position: center
-    //background-color: #7f9fc7;
     background-size: cover;
     color: #ffffff;
     display: flex;
@@ -146,7 +134,6 @@ nav ul{
 }
 .hero2 th ,td{
     border: 1px solid #938383;
-    //padding: 5px;
     text-align: center;
     font-size:17px;
     margin: 0 auto;
@@ -160,7 +147,6 @@ nav ul{
 
 
 .hero3{
-    //background: url("../../projet_php/image/5.jpg");
     padding: 2%;
     background-size: cover;
     color: #020202;
